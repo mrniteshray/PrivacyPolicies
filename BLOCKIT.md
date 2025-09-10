@@ -1,6 +1,6 @@
-# Privacy Policy for Blockit
+# Blockit : PRIVACY POLICY
 
-_Last updated: [24-08-2025]_
+_Last updated: [11-09-2025]_
 
 Welcome to **Blockit**!  
 Your privacy is important to us. This policy explains how Blockit handles permissions and data to keep your experience safe, transparent, and focused.
